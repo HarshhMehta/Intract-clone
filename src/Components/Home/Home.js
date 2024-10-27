@@ -4,7 +4,7 @@ import { BiCheck, BiInfoCircle, BiX } from "react-icons/bi";
 import { BsFilePlayFill, BsFillClockFill } from "react-icons/bs";
 import ClaimComponent from "../common/ClaimCard";
 import DisclosureComponent from "../common/DisclosureCard";
-import { RoadToSVG, RoadToSVG2, SVG3, SVG4 } from "../../assets/Icons";
+// import { RoadToSVG, RoadToSVG2, SVG3, SVG4 } from "../../assets/Icons";
 import Footer from "../Footer/Footer";
 import DictionaryComponent from "../common/DictionaryCard";
 import CountdownTimer from "../common/CountdownCard";
