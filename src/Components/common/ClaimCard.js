@@ -1,4 +1,4 @@
-// import { LockClosedIcon } from "@heroicons/react/24/outline";
+import { LockClosedIcon } from "@heroicons/react/24/outline";
 import { MdLockOutline } from "react-icons/md";
 
 const ClaimComponent = ({
